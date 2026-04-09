@@ -23,5 +23,8 @@ main:
   - title: "Now Reading"
     url: /reading/
 
+  - title: "Tutoring"
+    url: /tutoring/
+
   - title: "Contact"
     url: /contact/
