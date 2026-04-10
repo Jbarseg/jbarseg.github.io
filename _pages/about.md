@@ -122,7 +122,7 @@ redirect_from:
 
 <div class="home-wrapper">
 
-  <img src="/images/profile.png" alt="Jonathan David Barrantes Segovia" class="home-photo">
+  <img src="/images/profile.jpeg" alt="Jonathan David Barrantes Segovia" class="home-photo">
 
   <h1 class="home-name">Jonathan David Barrantes Segovia</h1>
 
